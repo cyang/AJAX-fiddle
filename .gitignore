@@ -105,3 +105,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# use glob syntax.
+syntax: glob
+*.log
+*.pyc
+*~
+.log
